@@ -5,7 +5,7 @@ Imap Open function used php open source code to read all emails in Gmail.
 
 ## How to use
 
-#### Tüm öğeleri getir
+#### Files
 
 ```http
   index.php
